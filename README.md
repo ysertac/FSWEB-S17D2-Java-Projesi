@@ -1,4 +1,4 @@
-#  Java Spring Boot Introduction
+#  Java Spring Boot Dependency Injection
 
 ### Proje Kurulumu
 
