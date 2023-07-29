@@ -23,7 +23,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * ```model``` paketi içerisinde ````Developer```` isminde bir adet abstract class oluşturunuz. ```id, name, salary ve experience``` isimli 4 adet değişken tanımlayınız.
  * experience değeri enum tipinde olmalı JUNIOR, MID ve SENIOR değerlerinden birini almalı.
  * ````Developer```` sınıfı içerisinde tüm ````instance variable```` değerlerini set eden bir adet constructor tanımlayınız.
- * ```Developer``` sınıfını kullanan(ilişkinin nasıl olması gerektiğini siz tanımlamalısınız.) 3 ayrı sınıf sınıf tanımlayınız. ````JuniorDeveloper````, ````MidDeveloper````, ````SeniorDeveloper````
+ * ```Developer``` sınıfını kullanan(ilişkinin nasıl olması gerektiğini siz tanımlamalısınız.) 3 ayrı sınıf tanımlayınız. ````JuniorDeveloper````, ````MidDeveloper````, ````SeniorDeveloper````
  
  ### Görev 2
  * tax paketinin içerisine bir adet ````Taxable```` isimli interface tanımlayınız.
