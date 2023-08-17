@@ -57,3 +57,5 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * [PUT]/workintech/cars/{id} => İlgili id deki map değerini ```Request Body``` içerisinden aldığı değer ile günceller.
  * [DELETE]/workintech/cars/{id} => İlgili id değerini mapten siler.
  * Tüm endpointlerin dönüş değerleri JSON formatında olmalı.
+ * Spring Actuators endpointlerini kullanarak /mappings, /health ile uygulamanızın durumunu kontrol edin
+ * /info nun çalışabilmesi için application.properties kısmına ```name```, ```description```, ```version``` kısımlarını tanımlayınız.
