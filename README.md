@@ -18,7 +18,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * Uygulamanızı  ```8585``` portundan ayağa kaldırın.
  * Spring devtools kullanarak uygulamanızın her değişim sonrasında kendisini restart etmesini sağlayınız.
  * Uygulamamızda ```main``` metodumuzun bulunduğu paket dışında iki adet daha paket tanımlayınız. ```model``` ve ```tax``` isminde olabilirler.
- * Uygulamamızda ```main``` metodumuzun bulunduğu paket içerisine ```rest``` isimli bir paket oluşturunuz.
+ * Uygulamamızda ```main``` metodumuzun bulunduğu paket dışında kalıcak şekilde ```rest``` isimli bir paket oluşturunuz.
  * ```rest``` paketi içerisinde ````DeveloperController```` ve ````CarController```` isimli birer controller tanımlayınız.
  * ```model``` paketi içerisinde ````Developer```` isminde bir adet abstract class oluşturunuz. ```id, name, salary ve experience``` isimli 4 adet değişken tanımlayınız.
  * experience değeri enum tipinde olmalı JUNIOR, MID ve SENIOR değerlerinden birini almalı.
